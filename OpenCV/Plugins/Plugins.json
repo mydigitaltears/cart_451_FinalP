@@ -1,0 +1,17 @@
+{
+    "Version": 1,
+    "AllowedPlugins": {
+        "3e3f9015": {
+            "ComputerName": "xaviers-macbook-pro.local",
+            "Plugins": {
+                "/Users/xaviertouikan/Documents/School/CART451/openCV/TD-OpenCV3TOP-master/Plugins/CV3FaceDetectTOP.plugin": {
+                    "Hashes": [
+                        "nAJsWnc8XUav2YAu9CWyR5dT0SvUHmdWNU0dSLti+0OYy1GzWc5b4nbgKkekziDX6GI/dmPhMj2tAZWknA9NRPMds42fsPMwgOvbPb7AjJhjb3yzViqjFV5zr/dUAyAANbgDmgq1iO2IYMv/tZzU30V3l6+recY4CT3YCnmy28Hj6usFkUCQklp7BpmlLfGmWwJm30HjrZNtQzot95+hD8jKX5J0jIYULFVPvBWJk4oZUovF4fRsKib2sNbIRxbUCsGVVEN6vDej6cCVNjqhEGWbHrz4VQXY7C/o0+7mFUoqn1IbHa1m8vAW+p1I9sAkbRWIrH4xC2tCRAsQ6ny1NA=="
+                    ],
+                    "AuthorName": "Da Xu",
+                    "AuthorEmail": "da.xu@wearesohappy.net"
+                }
+            }
+        }
+    }
+}
